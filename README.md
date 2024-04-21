@@ -17,6 +17,10 @@ Here are the steps for you to set it up on Google Chrome*:
 3. Drag and drop the zip file
 4. Go to your favorite newsletter or media website and use the extension by right-clicking anywhere (wait up to 60 seconds and try again if it doesn't work):
    ![demo](./demo-screenshot-website-3.jpg)
-5. Please give me feedback on [Github](https://github.com/arielsegura/voice-mate-beta/issues/new), [Twitter](https://twitter.com/arisegu), or [LinkedIn](https://www.linkedin.com/in/arielsegura/)
+5. Please give me feedback on [Github](https://github.com/arielsegura/voice-mate-beta/issues/new), [Twitter](https://twitter.com/arisegu), [LinkedIn](https://www.linkedin.com/in/arielsegura/) or WhatsApp ;)
 
 * It also works on Sidekick!
+
+## FAQ
+
+- What languages does it support?
